@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjetoAndroid</string>
+    <string name="preencha_com_suas_informacoes">Preencha com suas informações:</string>
+    <string name="informe_seu_nome">Informe seu nome:</string>
+    <string name="informe_seu_telefone">Informe seu telefone:</string>
+    <string name="enviar">Enviar</string>
+    <string name="informe_seu_e_mail">Informe seu e-mail:</string>
+    <string name="seus_dados">Seus Dados</string>
+    <string name="notificacoes">Notificações</string>
+    <string name="receber_notifica_es_sobre_nosso_aplicativo_via_telefone">Receber notificações sobre nosso aplicativo via telefone?</string>
+    <string name="receber_notifica_es_sobre_nosso_aplicativo_via_email">Receber notificações sobre nosso aplicativo via email?</string>
+</resources>
